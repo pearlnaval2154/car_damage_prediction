@@ -1,0 +1,10 @@
+{
+    "bumper_dent": 0,
+    "bumper_scratch": 1,
+    "door_dent": 2,
+    "door_scratch": 3,
+    "glass_shatter": 4,
+    "head_lamp": 5,
+    "tail_lamp": 6,
+    "unknown": 7
+}
